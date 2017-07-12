@@ -1,0 +1,33 @@
+﻿body {;text-align:center; background-color:#dddddd;
+}
+#shell {
+    width: 1200px;
+    margin: 0 auto;
+    background-color:white;color:darkolivegreen;
+    /*border:1px solid #fff;*/
+}
+
+header img {height:200px; width:220px;border-radius:80%;}
+header{text-align:center;}
+figcaption{font-family:176MKSDAL;font-size:30px;font-weight:700;}
+
+table{border-collapse:collapse;width:100%;}
+td, th{border:1px solid #dddddd;text-align:left;padding:8px;}
+tr:nth-child(even){background-color:#dddddd;}
+table a{list-style-type:none;display:inline-block;padding:10px;text-decoration:none; color:green;}
+table a:hover{ text-decoration:line-through; color:green}
+table a:active{ text-decoration:line-through; color:green}
+
+
+
+h1{font-size:35px;background-color:#dddddd;margin:0; width:100%;}
+
+#personaldetails{text-align:left;padding:5px;}
+#personaldetails img {height:360px; width:320px;border-radius:80%;float:right;margin-right:100px;}
+
+nav {width:100%;}
+nav ul li{list-style-type:none;display:inline-block;padding:10px;}
+nav ul li a{text-decoration:none;  color:darkolivegreen;font-weight:800;}
+ul a:hover{ text-decoration:line-through; color:green}
+ul li a:active{ text-decoration:line-through; color:green}
+

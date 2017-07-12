@@ -1,0 +1,20 @@
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\csc.exe
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\vbc.exe
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\VBCSCompiler.exe
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\Cv Website.dll.config
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\Cv Website.dll
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\Cv Website.pdb
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\obj\Debug\Cv Website.csprojResolveAssemblyReference.cache
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\obj\Debug\Cv Website.dll
+c:\users\aston amg\documents\visual studio 2015\Projects\Cv Website\Cv Website\obj\Debug\Cv Website.pdb
